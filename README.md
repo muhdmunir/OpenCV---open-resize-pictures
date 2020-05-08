@@ -1,1 +1,1 @@
-# OpenCV---open-resize-pictures
+# OpenCV---bulk-open-resize-pictures
